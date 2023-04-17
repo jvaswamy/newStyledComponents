@@ -136,6 +136,8 @@ class MemeGenerator extends Component {
               </SelectInputField>
             </InputFieldContainer>
             <Button type="submit">Generator</Button>
+            <Button type="button">newButton</Button>
+            <h1>Hello</h1>
           </FormContainer>
         </ResponsiveContainer>
       </AppContainer>
