@@ -138,6 +138,7 @@ class MemeGenerator extends Component {
             <Button type="submit">Generator</Button>
             <Button type="button">newButton</Button>
             <h1>Hello</h1>
+            <p>edit this file</p>
           </FormContainer>
         </ResponsiveContainer>
       </AppContainer>
